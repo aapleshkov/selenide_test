@@ -3,4 +3,4 @@ target\
 selenide_test.iml
 
 # Project exclude paths
-/target/
+/target/.idea\
