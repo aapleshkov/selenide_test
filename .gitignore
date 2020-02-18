@@ -1,0 +1,6 @@
+.idea\
+target\
+selenide_test.iml
+
+# Project exclude paths
+/target/
